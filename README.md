@@ -40,7 +40,7 @@ In raw data, it is numeric and not five-digits numbers. So, it is required to co
 
 \insert pic 	
 
-![test](/assets/images/comparison of all poverty ratio.png)
+![](/assets/images/comparison_of_all_poverty_ratio.png)
 
 * **Insights** : Data with "\*" value in the Mortality Rate column (10.37% of overall data) shows -
   1. only a little bit lower poverty ratio 
