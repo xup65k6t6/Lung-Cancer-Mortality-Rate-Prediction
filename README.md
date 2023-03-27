@@ -39,7 +39,7 @@ In raw data, it is numeric and not five-digits numbers. So, it is required to co
 ## Deal with missing value (\*) in response variable (Mortality_Rate)
 
 \insert pic 	
-![test] (/../assets/images/comparison of all poverty ratio.png)
+![test] (/assets/images/comparison of all poverty ratio.png)
 
 * **Insights** : Data with "\*" value in the Mortality Rate column (10.37% of overall data) shows -
   1. only a little bit lower poverty ratio 
