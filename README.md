@@ -65,7 +65,7 @@ For now the summary of dataframe looks like as below.
 \insert pic
 
 # Feature Engineering
-## Convert population number to rates by population for each county
+* Convert population number to rates by population for each county
 Some of the numerical variables are dependent on the populations, so it would be helpful for algoritgns by converting all the raw data to per 100,000 persons rates (divide by population and multiply by 100,000).
 
 \insert pic
@@ -89,6 +89,16 @@ Some of the numerical variables are dependent on the populations, so it would be
 \insert heatmap
 
   * There is no strong correlation now.
+
+# Model Build-up
+* Split Data
+
+* Pipeline
+ * Feature pipeline
+  * Drop features
+  * Numerical features
+  * Categorical features
+ * Model pipeline: After building up feature pipelines, I connected them to the model or algorithms, so I don't need to do the same task again on test data set.
 
 # Model Selection
 ## Linear Regression
