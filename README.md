@@ -160,7 +160,7 @@ XGBoost is still the best model so far for this problem.
 - Semi-supervised learning: when imputing the missing value, doing semi-supervised learning may be helpful. It can prevent from losing information (remove missing value rows) and still relatively maintain the accuracy.
 - Correctly tung hyperparameter: when tuning hyperparameter in XGBoost, I accidently guess the best parameters and did not put a wider range into searching CV loop. So, it is possible to have a higher score if I tune the hyperparameters correctly.
 
-# Take away
+# Takeaways
 - Clean dirty and missing data from the scratch
 - Use pipeline to connect every step from imputing to training models
 - Tune hyperparameter
